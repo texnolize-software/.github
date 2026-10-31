@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/texnolize-stacked.png" alt="Texnolize — Professional Hacker" width="220">
+<img src="assets/texnolize-logo.png" alt="Texnolize — Professional Hacker" width="220">
 
 # Texnolize Software
 
