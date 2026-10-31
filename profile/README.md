@@ -40,4 +40,4 @@ Texnolize started as a research community, moved into software development, and 
 - LinkedIn: [linkedin.com/in/texnolize](https://www.linkedin.com/in/texnolize/)
 - Telegram: [@ruifujiwara](https://t.me/ruifujiwara)
 
-Copyright 2026 Texnolize. Part of 7SECURE JAPAN, and affiliated with HemisphereXsec in Germany.
+Copyright 2026 Texnolize. Part of 7SECURE JAPAN, and affiliated with HemisphereX in Germany.
