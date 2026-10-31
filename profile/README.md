@@ -1,77 +1,43 @@
-<div align="center">
-
-<img src="assets/texnolize-logo.png" alt="Texnolize — Professional Hacker" width="220">
+<p align="center">
+  <img src="assets/texnolize-logo.png" alt="Texnolize" width="220">
+</p>
 
 # Texnolize Software
 
-**Make Attackers Irrelevant.**
+This is the GitHub organisation of Texnolize, part of 7SECURE JAPAN. We use it to share tools, code and reports with the people we work with.
 
-<sub>No Zero-day Impact · Cut-off The Attack Path · Eliminate The Opportunity</sub>
+## Access
 
-<br>
+Almost everything here is private. A repository is only visible to the clients, partners and team members we have invited to it. If you are not signed in with an invited account, this page is all you will see.
 
-[![Website](https://img.shields.io/badge/texnolize.uk-f97316?style=for-the-badge&logo=googlechrome&logoColor=white)](https://texnolize.uk)
-[![Access](https://img.shields.io/badge/Access-Invitation_only-0d1117?style=for-the-badge&logo=github&logoColor=white)](#-access-is-by-invitation-only)
-[![Contact](https://img.shields.io/badge/Contact-rui%40texnolize.uk-1f2937?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:rui@texnolize.uk)
+## What we share
 
-</div>
+- Tools and scripts we use in authorised security work
+- Proof of concept code, detection rules and fixes
+- Assessment reports and evidence
+- Notes on how to fix and harden the systems we tested
 
----
+Each repository is for one engagement or one group of people. We don't mix clients.
 
-### 🔒 Access is by invitation only
+## Getting access
 
-This organisation is where **Texnolize** shares engagement material with the people it works with. Almost everything here is **private**: repositories are visible only to the clients, partners and team members who have been explicitly invited to them.
+We send an invitation to your GitHub account for the repository you need. Once you accept it, you can see that repository and nothing else. When the engagement ends, we remove access.
 
-> [!NOTE]
-> If you are viewing this page without an invitation, you are seeing the public front door only. The repositories behind it are not listed for you, and that is by design.
+If you were expecting an invitation and it hasn't arrived, email us at [rui@texnolize.uk](mailto:rui@texnolize.uk).
 
-<br>
+## Using what we share
 
-### 📦 What is shared here
+Please keep everything you receive from us confidential, as agreed with us. Don't fork, copy or forward it outside your organisation, and only use our tools and code on systems you own or have permission to test.
 
-| | |
-|---|---|
-| 🛠️ **Tools** | Purpose-built tooling and scripts used during authorised assessments |
-| 💻 **Code** | Proof-of-concept code, detection logic and remediation snippets |
-| 📄 **Reports** | Assessment reports, findings, evidence and Next-Day Insight results |
-| 🧭 **Guidance** | Hardening notes and remediation plans for the systems we tested |
+If you find a problem in something we shared, email us rather than opening a public issue.
 
-Each repository belongs to a single engagement or audience. Nothing is shared across clients.
+## About Texnolize
 
-<br>
+Texnolize started as a research community, moved into software development, and now works on IT security as part of 7SECURE JAPAN. You can read more about how the two fit together in [based-info](https://github.com/texnolize-software/based-info).
 
-### 🤝 How access works
+- Website: [texnolize.uk](https://texnolize.uk)
+- Email: [rui@texnolize.uk](mailto:rui@texnolize.uk)
+- LinkedIn: [linkedin.com/in/texnolize](https://www.linkedin.com/in/texnolize/)
+- Telegram: [@ruifujiwara](https://t.me/ruifujiwara)
 
-1. **Invitation** — Texnolize invites your GitHub account to the specific repository for your engagement.
-2. **Accept** — you accept the invitation from GitHub (by email or in your notifications).
-3. **Scoped** — you see only the repositories you were invited to, with the minimum permissions you need.
-4. **Time-bound** — access is reviewed and removed when the engagement or agreement ends.
-
-Expecting an invitation that has not arrived? Contact us at **[rui@texnolize.uk](mailto:rui@texnolize.uk)**.
-
-<br>
-
-### 🛡️ Handling shared material
-
-- Treat everything you are given access to as **confidential**, under the terms agreed with Texnolize.
-- Do not fork, mirror, re-publish or forward repositories, reports or code outside your organisation.
-- Tools and code are provided for **authorised use only**, on systems you own or are permitted to test.
-- Found a problem in something we shared? Tell us privately at **[rui@texnolize.uk](mailto:rui@texnolize.uk)** rather than opening a public issue.
-
-<br>
-
-### 🌐 About Texnolize
-
-Texnolize is a **professional hacker service**. We understand how attackers think and operate, and turn that into the capability to stop them: narrowing the attack surface, breaking the kill chain and making exploitation expensive, slow and difficult.
-
-<div align="center">
-
-**[texnolize.uk](https://texnolize.uk)** &nbsp;·&nbsp; [English](https://texnolize.uk/en/) &nbsp;·&nbsp; [日本語](https://texnolize.uk/ja/) &nbsp;·&nbsp; [Bahasa Indonesia](https://texnolize.uk/id/) &nbsp;·&nbsp; [中文](https://texnolize.uk/cn/)
-
-[LinkedIn](https://www.linkedin.com/in/texnolize/) &nbsp;·&nbsp; [Telegram](https://t.me/ruifujiwara) &nbsp;·&nbsp; [rui@texnolize.uk](mailto:rui@texnolize.uk)
-
-<br>
-
-<sub>© 2026 Texnolize. Affiliated with HemisphereXsec in Germany and 7Secure Japan.</sub>
-
-</div>
+Copyright 2026 Texnolize. Part of 7SECURE JAPAN, and affiliated with HemisphereXsec in Germany.
